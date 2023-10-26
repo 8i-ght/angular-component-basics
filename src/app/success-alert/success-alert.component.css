@@ -1,0 +1,5 @@
+p {
+    padding: 20px;
+    background-color: hsl(120, 93%, 79%);
+    border: 1px solid green;
+}
